@@ -1,0 +1,19 @@
+4 extreme rays
+4 support hyperplanes
+
+f-vector:
+1 4 4 1
+
+embedding dimension = 3
+rank = 3 (maximal)
+external index = 1
+
+
+***********************************************************************
+
+4 support hyperplanes:
+ -1  1  1
+  0 -1  2
+  1  1 -1
+  2 -1  0
+

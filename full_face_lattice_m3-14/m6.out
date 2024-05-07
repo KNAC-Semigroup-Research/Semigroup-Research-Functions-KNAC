@@ -1,0 +1,27 @@
+11 extreme rays
+12 support hyperplanes
+
+f-vector:
+1 11 29 30 12 1
+
+embedding dimension = 5
+rank = 5 (maximal)
+external index = 1
+
+
+***********************************************************************
+
+12 support hyperplanes:
+ -1  0  1  1  0
+ -1  1  0  0  1
+  0 -1  0  2  0
+  0 -1  1  0  1
+  0  0 -1  1  1
+  0  0  0 -1  2
+  0  1  1  0 -1
+  0  2  0 -1  0
+  1  0  0  1 -1
+  1  0  1 -1  0
+  1  1 -1  0  0
+  2 -1  0  0  0
+
