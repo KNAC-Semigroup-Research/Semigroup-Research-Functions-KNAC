@@ -7,7 +7,7 @@ https://github.com/coneill-math/kunzpolyhedron
 Instructions for download of these pack-
 ages can be found on their respective github README files. You will also need to
 download the Kunz Face Data sets derived in https://doi.org/10.1142/S021819672050023X. 
-That data is labele full_face_lattice_m3-14 in this repository. The
+That data is labeled full_face_lattice_m3-14 in this repository. The
 file location of this data should be the same file location you use for the file location
 variable at the beginning of the python file in [4]. The Kunz face data is used to
 calculate possible posets, which we use to find real semigroups.
